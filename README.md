@@ -11,6 +11,7 @@ https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 
 
 Data cleaning : 
+
 Data Loading: Loaded weather data for Seattle and New York from CSV files available online into pandas DataFrames.
 
 Data Inspection: Examined the structure of the data by looking at the first few rows and using the describe() function to get summary statistics for each column.
