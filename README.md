@@ -9,7 +9,6 @@ This project analyzes rainfall patterns between Seattle and New York City (NYC) 
 - NumPy
 - Matplotlib
 - Seaborn
-- SciPy
 
 ## Data
 
